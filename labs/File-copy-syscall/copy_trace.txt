@@ -1,0 +1,17 @@
+openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+close(3)                                = 0
+openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+read(3, "\177ELF\2\1\1\3\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0\220\243\2\0\0\0\0\0"..., 832) = 832
+close(3)                                = 0
+openat(AT_FDCWD, "source.txt", O_RDONLY) = 3
+openat(AT_FDCWD, "copied.txt", O_WRONLY|O_CREAT|O_TRUNC, 0644) = 4
+read(3, "Operating systems provide struct"..., 64) = 64
+write(4, "Operating systems provide struct"..., 64) = 64
+read(3, "the official boundary into the k"..., 64) = 64
+write(4, "the official boundary into the k"..., 64) = 64
+read(3, "close is a foundation for file I"..., 64) = 36
+write(4, "close is a foundation for file I"..., 36) = 36
+read(3, "", 64)                         = 0
+close(3)                                = 0
+close(4)                                = 0
++++ exited with 0 +++
