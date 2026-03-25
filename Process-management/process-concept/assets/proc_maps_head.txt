@@ -1,0 +1,20 @@
+5da872471000-5da872473000 r--p 00000000 08:30 12222                      /usr/bin/cat
+5da872473000-5da872478000 r-xp 00002000 08:30 12222                      /usr/bin/cat
+5da872478000-5da87247a000 r--p 00007000 08:30 12222                      /usr/bin/cat
+5da87247a000-5da87247b000 r--p 00008000 08:30 12222                      /usr/bin/cat
+5da87247b000-5da87247c000 rw-p 00009000 08:30 12222                      /usr/bin/cat
+5da878573000-5da878594000 rw-p 00000000 00:00 0                          [heap]
+77bf825a7000-77bf82600000 r--p 00000000 08:30 46461                      /usr/lib/locale/C.utf8/LC_CTYPE
+77bf82600000-77bf82628000 r--p 00000000 08:30 48091                      /usr/lib/x86_64-linux-gnu/libc.so.6
+77bf82628000-77bf827b0000 r-xp 00028000 08:30 48091                      /usr/lib/x86_64-linux-gnu/libc.so.6
+77bf827b0000-77bf827ff000 r--p 001b0000 08:30 48091                      /usr/lib/x86_64-linux-gnu/libc.so.6
+77bf827ff000-77bf82803000 r--p 001fe000 08:30 48091                      /usr/lib/x86_64-linux-gnu/libc.so.6
+77bf82803000-77bf82805000 rw-p 00202000 08:30 48091                      /usr/lib/x86_64-linux-gnu/libc.so.6
+77bf82805000-77bf82812000 rw-p 00000000 00:00 0 
+77bf82848000-77bf8286a000 rw-p 00000000 00:00 0 
+77bf8286a000-77bf8286b000 r--p 00000000 08:30 46467                      /usr/lib/locale/C.utf8/LC_NUMERIC
+77bf8286b000-77bf8286c000 r--p 00000000 08:30 46470                      /usr/lib/locale/C.utf8/LC_TIME
+77bf8286c000-77bf8286d000 r--p 00000000 08:30 46460                      /usr/lib/locale/C.utf8/LC_COLLATE
+77bf8286d000-77bf8286e000 r--p 00000000 08:30 46465                      /usr/lib/locale/C.utf8/LC_MONETARY
+77bf8286e000-77bf8286f000 r--p 00000000 08:30 46464                      /usr/lib/locale/C.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+77bf8286f000-77bf82876000 r--s 00000000 08:30 48079                      /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
