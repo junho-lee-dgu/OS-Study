@@ -1,4 +1,4 @@
-# Part 4-1 Report: Process Concept & Observation
+# Report(1): Process Concept & Observation
 
 ## 1. 목표
 프로그램과 프로세스의 차이를 이해하고, 실행 중 프로세스의 메모리 구조와 상태를 직접 관찰
@@ -39,7 +39,6 @@
 ## 6. 실수와 수정 과정
 초기 실습에서는 `mem_layout.c`에
 
-```c
 printf("\nPress Enter to exit...\n");
 getchar();
 를 추가했음에도 불구하고, 실행 중인 mem_layout 프로세스를 /proc/<PID>로 제대로 관찰하지 못했다.
