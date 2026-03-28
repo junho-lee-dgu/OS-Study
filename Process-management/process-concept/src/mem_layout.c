@@ -45,8 +45,9 @@ int main(void) {
     printf("*heap_var     = %d\n", *heap_var);
 
     free(heap_var);
-    return 0;
+    //return 0;
 
     printf("\nPress Enter to exit...\n");
     getchar();
+    return 0;
 }

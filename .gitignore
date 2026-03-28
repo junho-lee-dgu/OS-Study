@@ -5,8 +5,15 @@
 *.a
 *.so
 
-# specific lab binaries
+# common compiled binaries
+a.out
 mem_layout
+cpu_bound
+io_bound
+fork_demo
+pipe_demo
+tcp_echo_server
+tcp_echo_client
 
 # editor settings
 .vscode/
