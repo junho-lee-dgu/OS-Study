@@ -1,0 +1,15 @@
+# build artifacts
+*.o 
+*.out
+*.exe
+*.a
+*.so
+
+# specific lab binaries
+mem_layout
+
+# editor settings
+.vscode/
+
+# OS junk files
+.DS_Store
