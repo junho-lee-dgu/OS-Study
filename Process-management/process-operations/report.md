@@ -1,4 +1,4 @@
-# Report(2): Operations on Processes
+# Report(3): Operations on Processes
 
 ## 1. 실습 목표
 
@@ -12,7 +12,7 @@
 
 ```text
 Process-management/
-└── operations-on-processes/
+└── process-operations/
     ├── assets/
     │   ├── 01_fork_demo.png
     │   ├── 02_fork_exec_ls.png
