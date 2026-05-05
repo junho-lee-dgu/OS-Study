@@ -53,7 +53,7 @@ int main(void) {
 
         printf("[parent] PID=%d, child PID=%d\n", getpid(), pid);
         printf("[parent] writing message into pipe...\n");
-        sleep(3); //blocking read
+        sleep(3); //make blocking behavior easier to observe
 
         ssize_t n = write(fd[1], msg, strlen(msg));
         if (n < 0) {
